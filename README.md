@@ -8,3 +8,5 @@ The code for Support Vector Machine;
 The code for Decision Tree;
 
 The code for Neural Network;
+
+And the relevant diagrams visualizing the results of the experiment.
